@@ -6,7 +6,12 @@ function removeSpaces (a) {
   return a.replace(/\s+/g, '');
 }
 
+function Uppercase (a) {
+  return a.toUpperCase();
+}
+
 module.exports = {
   concat,
-  removeSpaces
+  removeSpaces,
+  Uppercase
 };

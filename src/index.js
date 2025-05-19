@@ -6,7 +6,7 @@ const readline = require('readline').createInterface({
   output: process.stdout
 });
 
-console.log("Benvenuto in SSGS-Calculator!");
+console.log("Benvenuto in SSGS-Calculator-String!");
 console.log("Scegli l'operazione da eseguire:");
 console.log("1. Concatenazione");
 console.log("2. Rimozione spazi");

@@ -1,0 +1,31 @@
+{
+  "name": "ssgs-calc-string",
+  "version": "1.0.0",
+  "description": "Calcolatrice di stringhe capace di eseguire concatenazioni di stringhe e rimuovere spazi bianchi.",
+  "main": "src/index.js",
+  "engines": {
+    "node": "v22.14.0"
+  },
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node src/index.js"
+  },
+  "keywords": [ 
+    "calculator",
+    "calculator app",
+    "calculator nodejs",
+    "calculator javascript",
+    "calculator js",
+    "cli",
+    "node",
+    "string",
+    "string calculator",
+    "string calculator app",
+    "string calculator nodejs"
+  ],
+  "author": "Filippo Pedullà <pedulla.filippo03@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
